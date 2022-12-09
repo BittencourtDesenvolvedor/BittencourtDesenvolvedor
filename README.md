@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @BittencourtDesenvolvedor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Como eu me defino?
+Sou um profissional sempre em busca de conhecimento e apaixonado por tecnologia.
+São mais de 15 anos de experiência em gestão de pessoas, gerindo empresas e buscando resultados.
+E agora me aventurando em uma área que amo, apaixonado por React.js e Node.js, mas com sede de aprender outras tecnologias também.
+Meus principais pontos positivos:
+ - Trabalho em equipe;
+ -Liderança; 
+Meus principais pontos negativos:
+ -Um pouco desorganizado;
 
-<!---
-BittencourtDesenvolvedor/BittencourtDesenvolvedor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Isso é um pouco sobre mim...es.
 --->
